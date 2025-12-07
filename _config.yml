@@ -24,7 +24,7 @@ author:
   # Biographic information
   avatar           : "profile.png" # 後で自分の写真ファイル(profile.png)をimagesフォルダに入れます
   name             : "Daichi Hiraki"
-  pronouns         : "he" # 必要なければ空欄でもOK
+  pronouns         : # "he" # 必要なければ空欄でもOK
   bio              : "<b>平木 大智</b><br>Ph.D. student, Graduate School of Economics, The University of Tokyo. <br>Advisor: Prof. Yasuhiro Omori.<br>Research Interest: Bayesian Statistics."
   location         : "Tokyo, Japan"
   employer         : "University of Tokyo"
