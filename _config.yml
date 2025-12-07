@@ -12,7 +12,7 @@ site_theme               : "default"
 title                    : "Daichi Hiraki"
 title_separator          : "-"
 name                     : &name "Daichi Hiraki"
-description              : &description "Ph.D. student in Economics (Statistics) at the University of Tokyo" 
+description              : &description "Ph.D. student in Economics at The University of Tokyo" 
 url                      : "https://DaichiHiraki.github.io"
 baseurl                  : ""
 repository               : "DaichiHiraki/DaichiHiraki.github.io"
@@ -25,7 +25,7 @@ author:
   avatar           : # "profile.png" # 後で自分の写真ファイル(profile.png)をimagesフォルダに入れます
   name             : "Daichi Hiraki"
   pronouns         : "he" # 必要なければ空欄でもOK
-  bio              : "Ph.D. student in Economics at the University of Tokyo. <br>Advisor: Prof. Yasuhiro Omori.<br>Research Interest: Bayesian Statistics."
+  bio              : "Ph.D. student, Graduate School of Economics, The University of Tokyo. <br>Advisor: Prof. Yasuhiro Omori.<br>Research Interest: Bayesian Statistics."
   location         : "Tokyo, Japan"
   employer         : "University of Tokyo"
   uri              : # 自分の別サイトがあればURL
