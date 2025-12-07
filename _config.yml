@@ -8,29 +8,28 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Your Name / Site Title"
+site_theme               : "default"
+title                    : "Daichi Hiraki"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "Your Name's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
-url                      : https://academicpages.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
-                                                           # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+name                     : &name "Daichi Hiraki"
+description              : &description "Ph.D. student in Economics (Statistics) at the University of Tokyo" 
+url                      : "https://DaichiHiraki.github.io"
+baseurl                  : ""
+repository               : "DaichiHiraki/DaichiHiraki.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
-  uri              : # URL
-  email            : "none@example.org" 
+  avatar           : # "profile.png" # 後で自分の写真ファイル(profile.png)をimagesフォルダに入れます
+  name             : "Daichi Hiraki"
+  pronouns         : "he" # 必要なければ空欄でもOK
+  bio              : "Ph.D. student in Economics at the University of Tokyo. <br>Advisor: Prof. Yasuhiro Omori.<br>Research Interest: Bayesian Statistics."
+  location         : "Tokyo, Japan"
+  employer         : "University of Tokyo"
+  uri              : # 自分の別サイトがあればURL
+  email            : hdaichi397 [at] gmil.com
 
   # Academic websites
   academia         : # URL
@@ -74,7 +73,7 @@ author:
   steam            : # Username
   telegram         : # URL
   tumblr           : # Username
-  twitter          : # Username for X / Twitter
+  twitter          : @tkofHD
   vine             : # Username
   weibo            : # Username
   wikipedia        : # Username
