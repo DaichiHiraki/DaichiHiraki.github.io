@@ -22,7 +22,7 @@ repository               : "DaichiHiraki/DaichiHiraki.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : # "profile.png" # 後で自分の写真ファイル(profile.png)をimagesフォルダに入れます
+  avatar           : "profile.png" # 後で自分の写真ファイル(profile.png)をimagesフォルダに入れます
   name             : "Daichi Hiraki"
   pronouns         : "he" # 必要なければ空欄でもOK
   bio              : "Ph.D. student, Graduate School of Economics, The University of Tokyo. <br>Advisor: Prof. Yasuhiro Omori.<br>Research Interest: Bayesian Statistics."
