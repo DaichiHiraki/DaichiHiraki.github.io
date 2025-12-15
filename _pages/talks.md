@@ -7,7 +7,7 @@ author_profile: true
 
 ## International Conferences
 
-* **Dec 2025**: “Dynamic factor stochastic volatility in mean model”, 18th International Conference of the ERCIM WG on Computational and Methodological Statistics (CMStatistics 2025), London, UK.
+* **Dec 2025**: “Dynamic factor stochastic volatility in mean model”, 19th International Joint Conference on Computational and Financial Econometrics (CFE) and Computational and Methodological Statistics (CMStatistics), London, UK.
 * **Oct 2025**: "Stochastic Volatility In Mean: Efficient Analysis By A Generalized Mixture Sampler", *65th ISI World Statistics Congress (ISI-WSC)*, The Hague, Netherlands.
 
 ## Domestic Conferences (in Japan)
