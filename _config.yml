@@ -22,7 +22,7 @@ repository               : "DaichiHiraki/DaichiHiraki.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "/images/avatar.png"
+  avatar           : "/images/avatar.jpg"
   name             : "Daichi Hiraki"
   pronouns         : # "he" # 必要なければ空欄でもOK
   bio              : "<b>平木 大智</b><br>Ph.D. student, Graduate School of Economics, The University of Tokyo. <br>Advisor: Prof. Yasuhiro Omori.<br>Research Interest: Bayesian Statistics."
