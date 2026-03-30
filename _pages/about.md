@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a first-year Ph.D. student in the Graduate School of Economics at [The University of Tokyo](https://www.u-tokyo.ac.jp/en/index.html), Japan. 
+I am a second-year Ph.D. student in the Graduate School of Economics at [The University of Tokyo](https://www.u-tokyo.ac.jp/en/index.html), Japan. 
 
 My research interests lie in **Bayesian Statistics** and **Time Series Analysis**. I am particularly interested in developing efficient MCMC algorithms for state-space models and stochastic volatility models. I am currently supervised by Professor [Yasuhiro Omori](https://sites.google.com/view/omori-stat/japanese).
 
