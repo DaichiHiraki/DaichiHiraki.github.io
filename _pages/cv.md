@@ -9,39 +9,22 @@ redirect_from:
 
 {% include base_path %}
 
-(Test page)
+## [Download my CV as a PDF here](https://daichihiraki.github.io/files/cv.pdf)
 
 Education
 ======
 * Ph.D. student in Economics, The University of Tokyo (Current)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* M.A. in Economics, The University of Tokyo, 2024
+* B.A. in Economics, The University of Tokyo, 2022
 
-Work experience
+Scholarships and Awards
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* **Research Fellowship for Young Scientists (DC2)**, Japan Society for the Promotion of Science (JSPS), 2026--2028
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* **Programming**: R (Rcpp), Python
+* **Languages**: Japanese (Native), English (Conversational)
 
 Publications
 ======
@@ -60,7 +43,3 @@ Teaching
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
