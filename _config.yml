@@ -334,3 +334,10 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+
+
+publication_category:
+  published:
+    title: "Journal Articles"
+  preprint:
+    title: "Working Papers / Preprints"
