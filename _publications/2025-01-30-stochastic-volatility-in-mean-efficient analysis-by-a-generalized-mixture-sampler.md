@@ -1,6 +1,7 @@
 ---
 title: "Stochastic volatility in mean: Efficient analysis by a generalized mixture sampler"
 collection: publications
+category: published
 permalink: /publication/2025-01-30-stochastic-volatility-in-mean-efficient analysis-by-a-generalized-mixture-sampler
 excerpt: 'In this paper we consider the simulation-based Bayesian analysis of stochastic volatility in mean (SVM) models.'
 date: 2025-01-30
