@@ -1,6 +1,7 @@
 ---
 title: "State-Space modeling of shape-constrained functional time series"
 collection: publications
+category: preprint
 permalink: /publication/2024-12-01-state-space-modeling-of-shape-constrained-functional-time-series
 excerpt: 'Functional time series data frequently appears in econometric analyses, where the functions of interest are subject to some shape constraints, including monotonicity and convexity, as typical of the estimation of the Lorenz curve. This paper proposes a state-space model for time-varying functions to extract trends and serial dependence from functional time series while imposing the shape constraints on the estimated functions.'
 date: 2024-12-01
