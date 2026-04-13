@@ -7,7 +7,7 @@ excerpt: 'Functional time series data frequently appears in econometric analyses
 date: 2024-12-01
 venue: 'arXiv preprint'
 paperurl: 'https://arxiv.org/abs/2404.07586'
-citation: 'Hiraki et al. (2024). &quot;State-Space Modeling of Shape-constrained Functional Time Series.&quot; <i>arXiv preprint arXiv:2404.07586</i>.'
+# citation: 'Hiraki et al. (2024). &quot;State-Space Modeling of Shape-constrained Functional Time Series.&quot; <i>arXiv preprint arXiv:2404.07586</i>.'
 ---
 
 ## Abstract
