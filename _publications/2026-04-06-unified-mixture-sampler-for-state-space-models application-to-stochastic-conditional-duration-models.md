@@ -2,7 +2,7 @@
 title: "Unified mixture sampler for state-space models: Application to stochastic conditional duration models"
 collection: publications
 category: preprint
-permalink: /publication/2026-04-06-state-space-modeling-of-shape-constrained-functional-time-series
+permalink: /publication/2026-04-06-unified-mixture-sampler-for-state-space-models application-to-stochastic-conditional-duration-models
 excerpt: 'We propose a unified mixture sampler (UMS) that provides a universal estimation framework for nonlinear state-space models with "exp-exp" likelihood kernels.'
 date: 2026-04-06
 venue: 'arXiv preprint'
