@@ -14,8 +14,8 @@ redirect_from:
 Education
 ======
 * Ph.D. student in Economics, The University of Tokyo (Current)
-* M.A. in Economics, The University of Tokyo, 2024
-* B.A. in Economics, The University of Tokyo, 2022
+* M.A. in Economics, The University of Tokyo, 2025
+* B.A. in Economics, The University of Tokyo, 2023
 
 Scholarships and Awards
 ======
