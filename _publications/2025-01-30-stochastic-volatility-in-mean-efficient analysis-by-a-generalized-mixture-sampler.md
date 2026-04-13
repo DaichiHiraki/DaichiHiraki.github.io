@@ -7,7 +7,7 @@ excerpt: 'In this paper we consider the simulation-based Bayesian analysis of st
 date: 2025-01-30
 venue: 'Journal of Econometrics'
 paperurl: 'https://www.sciencedirect.com/science/article/pii/S030440762500003X?via%3Dihub'
-citation: 'Hiraki et al. (2025). &quot;Stochastic volatility in mean: Efficient analysis by a generalized mixture sampler.&quot; <i>Journal of Econometrics</i>.'
+# citation: 'Hiraki et al. (2025). &quot;Stochastic volatility in mean: Efficient analysis by a generalized mixture sampler.&quot; <i>Journal of Econometrics</i>.'
 ---
 
 ## Abstract
